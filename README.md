@@ -1,6 +1,6 @@
 # Hello World 🌎
 
-I'm Vishal Verma and it's a great pleasure to meet you.
+I'm Vishal and it's a great pleasure to meet you.
 &nbsp;
 
 ## **iOS Development** **📱** ##
